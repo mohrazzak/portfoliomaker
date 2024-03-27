@@ -1,0 +1,10 @@
+{
+  "errors": {
+    "timeout": "Oops! It seems our server is a bit busy right now. Please give it a moment and try again.",
+    "internalServerError": "Something went wrong on our end. Our team is on it. Please try again later.",
+    "prismaClientError": "An error occurred while processing your request. Please check the provided data and try again.",
+    "validation": "Validation error occurred, Please check your fields and try again.",
+    "translatingFailed": "$t(languages.{lng}) Translation not found.",
+    "fallback": "The language you are trying to use is not fully setup, Choose another language."
+  }
+}

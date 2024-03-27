@@ -1,0 +1,30 @@
+{
+  "success": {
+    "getAll": "Successfully retrieved $t(entities.{entity}.definite.plural)",
+    "getOne": "Successfully retrieved $t(entities.{entity}.definite.singular)",
+    "create": "Successfully created $t(entities.{entity}.definite.singular)",
+    "update": "Successfully updated $t(entities.{entity}.definite.singular)",
+    "delete": "Successfully deleted $t(entities.{entity}.definite.singular))",
+    "ability": {
+      "getAll": "Successfully retrieved all $t(entities.{entity}.definite.plural).",
+      "getOne": "Successfully retrieved this $t(entities.{entity}.indefinite.singular).",
+      "create": "Successfully created this $t(entities.{entity}.indefinite.singular).",
+      "update": "Successfully updated this $t(entities.{entity}.indefinite.singular).",
+      "delete": "Successfully deleted this $t(entities.{entity}.indefinite.singular)."
+    }
+  },
+  "errors": {
+    "getAll": "An error occurred while retrieving a list of $t(entities.{entity}.indefinite.plural)",
+    "getOne": "An error occurred while retrieving $t(entities.{entity}.definite.singular)",
+    "create": "An error occurred while creating $t(entities.{entity}.definite.singular)",
+    "update": "An error occurred while updating $t(entities.{entity}.definite.singular)",
+    "delete": "An error occurred while deleting $t(entities.{entity}.definite.singular)",
+    "ability": {
+      "getAll": "You cannot read $t(entities.{entity}.definite.plural).",
+      "getOne": "You cannot read this $t(entities.{entity}.indefinite.singular).",
+      "create": "You cannot create this $t(entities.{entity}.indefinite.singular).",
+      "update": "You cannot update this $t(entities.{entity}.indefinite.singular).",
+      "delete": "You cannot delete this $t(entities.{entity}.indefinite.singular)."
+    }
+  }
+}

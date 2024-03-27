@@ -1,0 +1,30 @@
+{
+  "success": {
+    "getAll": "تم الحصول على $t(entities.{entity}.definite.plural) بنجاح",
+    "getOne": "تم الحصول على $t(entities.{entity}.definite.singular) بنجاح",
+    "create": "تم إنشاء $t(entities.{entity}.definite.singular) بنجاح",
+    "update": "تم تعديل $t(entities.{entity}.definite.singular) بنجاح",
+    "delete": "تم حذف $t(entities.{entity}.definite.singular) بنجاح",
+    "ability": {
+      "getAll": "تمت قراءة كل $t(entities.{entity}.definite.plural) بنجاح.",
+      "getOne": "تمت قراءة $t(entities.{entity}.definite.singular) بنجاح.",
+      "create": "تمت إنشاء $t(entities.{entity}.definite.singular) بنجاح.",
+      "update": "تم تعديل $t(entities.{entity}.definite.singular) بنجاح.",
+      "delete": "تم حذف $t(entities.{entity}.definite.singular) بنجاح."
+    }
+  },
+  "errors": {
+    "getAll": "حدث خطأ أثناء عرض مجموعة من $t(entities.{entity}.definite.plural)",
+    "getOne": "حدث خطأ أثناء عرض $t(entities.{entity}.definite.singular)",
+    "create": "حدث خطأ أثناء إنشاء $t(entities.{entity}.definite.singular)",
+    "update": "حدث خطأ أثناء تعديل $t(entities.{entity}.definite.singular)",
+    "delete": "حدث خطأ أثناء حذف $t(entities.{entity}.definite.singular)",
+    "ability": {
+      "getAll": "لا يمكنك قراءة $t(entities.{entity}.definite.plural).",
+      "getOne": "لا يمكنك قراءة هذا $t(entities.{entity}.definite.singular).",
+      "create": "لا يمكنك إنشاء هذا $t(entities.{entity}.definite.singular).",
+      "update": "لا يمكنك تعديل هذا $t(entities.{entity}.definite.singular).",
+      "delete": "لا يمكنك حذف هذا {$t(entities.{entity}.definite.singular)."
+    }
+  }
+}

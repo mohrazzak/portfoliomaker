@@ -1,0 +1,10 @@
+{
+  "errors": {
+    "uniqueProperty": "The $t(properties.{property}.indefinite) you provided is already associated with another $t(entities.{entity}.indefinite.singular). Please choose a unique $t(properties.{property}.indefinite).",
+    "findOrThrow": "No $t(entities.{entity}.indefinite.singular) found with that information.",
+    "invalidFileType": "Please use a valid image, Try one of those extensions (png, jpg)",
+    "failedToUpload": "Failed to upload the file, Please try again later",
+    "foreignKeyFailed": "Failed to process $t(entities.{entity}.definite.singular).",
+    "fileIsRequired": "$t(files.{fileName}.indefinite) required."
+  }
+}

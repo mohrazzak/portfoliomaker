@@ -1,0 +1,7 @@
+{
+  "email": {
+    "definite": "البريد الإلكتروني",
+    "indefinite": "بريد إلكتروني"
+  },
+  "username": { "definite": "الاسم المستخدم", "indefinite": "اسم مستخدم" }
+}

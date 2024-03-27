@@ -1,0 +1,9 @@
+{
+  "User": {
+    "definite": {
+      "plural": "the users",
+      "singular": "the user"
+    },
+    "indefinite": { "plural": "users", "singular": "user" }
+  }
+}

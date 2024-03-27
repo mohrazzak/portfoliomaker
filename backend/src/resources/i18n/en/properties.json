@@ -1,0 +1,4 @@
+{
+  "email": { "definite": "the email", "indefinite": "email" },
+  "username": { "definite": "the username", "indefinite": "username" }
+}

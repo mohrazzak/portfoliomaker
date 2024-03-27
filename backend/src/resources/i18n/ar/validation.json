@@ -1,0 +1,10 @@
+{
+  "errors": {
+    "uniqueProperty": "يوجد $t(entities.{entity}.indefinite.singular) بهذا $t(properties.{property}.definite), الرجاء استخدام $t(properties.{property}.indefinite) مختلف.",
+    "findOrThrow": "لم يتم العثور على $t(entities.{entity}.indefinite.singular) بهذه المعلومات.",
+    "invalidFileType": "يرجى استخدام نوع ملفات صالح, جرّب استخدام الصور ذات اللاحقة (png, jpg)",
+    "failedToUpload": "حدثت مشكلة أثناء رفع الملف, يرجى إعادة المحاولة لاحقاً",
+    "foreignKeyFailed": "حصل خطأ أثناء معالجة $t(entities.{entity}.definite.singular).",
+    "fileIsRequired": "$t(files.{fileName}.definite) مطلوب."
+  }
+}

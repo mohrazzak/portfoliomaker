@@ -1,0 +1,9 @@
+{
+  "User": {
+    "definite": {
+      "plural": "المستخدمين",
+      "singular": "المستخدم"
+    },
+    "indefinite": { "plural": "مستخدمين", "singular": "مستخدم" }
+  }
+}
